@@ -1,5 +1,5 @@
 # DIO---TESTE---GITHUB--PRIMEIRO-REPOSITORIO
-TESTE DE PROJETO SOBRE GIT / GITHUB
+TESTE DA DIO SOBRE GITHUB
 
 ## Links úteis
 [Sintaxe Markdown Básico](https://www.markdownguide.org/)
